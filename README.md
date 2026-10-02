@@ -1,0 +1,1 @@
+Python Exam I (2026)の授業用
