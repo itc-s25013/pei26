@@ -1,0 +1,10 @@
+mathライブラリは数学に関する関数がある
+while文の中で使用する
+    continue文とは->次の処理に進む
+    break文とは->繰り返し処理が終了    
+
+defは関数定義   
+return文は戻り値を返す
+randomモジュールのrandom()関数は乱数を生成する。
+    先にimport randomを書いておく
+    使用例：random.random()
