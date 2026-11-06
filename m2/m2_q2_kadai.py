@@ -8,7 +8,7 @@ print(type(bin(b)))
 
 #5のコード
 c = 1.740516
-print(f'{c:.1f}')
+print(f'{c:.2g}')
 
 
 
